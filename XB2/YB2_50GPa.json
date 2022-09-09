@@ -1,6 +1,7 @@
 {
  "name": "YB2_50GPa",
  "natoms": 3,
+ "nqpoints": 358,
  "lattice": [
   [
    3.056051795288524,
